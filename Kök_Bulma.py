@@ -13,5 +13,5 @@ x2 = (- b + delta ** 0.5) / (2 *a )
 
 print("Birinci Kök: {}\nİkinci Kök: {}\n".format(x1,x2))
 
-#where it all started aga :)
+#where it all started :)
     
